@@ -7,7 +7,8 @@ const { createApp } = Vue;
 const app = createApp({
     data(){
         return{
-            title: 'Hello Vue!'
+            title: 'Hello Vue!',
+            image: 'https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vuel_870x220.png?sfvrsn=55532680_1'
         }
     }
 });
